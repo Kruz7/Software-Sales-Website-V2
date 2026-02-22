@@ -1,0 +1,11 @@
+:root {
+    --primary: #6366f1;
+    --primary-opaque: rgba(99, 102, 241, 0.2);
+    --primary-opaque-strong: rgba(99, 102, 241, 0.15);
+    --secondary: #8b5cf6;
+    --accent: #ec4899;
+    --bg-dark: #0f0f11;
+    --bg-card: #18181b;
+    --text-primary: #fafafa;
+    --text-secondary: #a1a1aa;
+}
